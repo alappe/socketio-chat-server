@@ -1,0 +1,20 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "socket.io based chat server",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "coffee index.coffee"
+  },
+  "author": "Andreas Lappe",
+  "license": "BSD",
+  "dependencies": {
+    "coffee-script": "^1.9.2",
+    "getconfig": "^2.1.0",
+    "hapi": "^8.4.0",
+    "node-twitter": "^0.5.2",
+    "socket.io": "^1.3.5",
+    "uuid": "^2.0.1"
+  }
+}

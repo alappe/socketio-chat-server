@@ -1,0 +1,9 @@
+{
+  "port": 3334,
+  "twitter": {
+    "consumer_key": "",
+    "consumer_secret": "",
+    "token": "",
+    "token_secret": ""
+  }
+}

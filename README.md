@@ -1,0 +1,6 @@
+# Chat prototype…
+
+## Run…
+
+Build the client with something like `cd client && npm install && npm run build`, then 
+run server with `npm start`. Open in browsers: `http://localhost:3334`

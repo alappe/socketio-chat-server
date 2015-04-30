@@ -1,0 +1,28 @@
+body {
+  background: #fff;
+}
+body form.message-input {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+body form.message-input input {
+  margin-bottom: 0;
+}
+body #messages {
+  margin: 2rem 0;
+}
+body #messages .msg.twitter > div {
+  background-color: #c0deed;
+}
+body #messages .msg .name {
+  padding: 0 0.5rem;
+  font-weight: bold;
+}
+body #messages .msg .name:before {
+  content: '<';
+}
+body #messages .msg .name:after {
+  content: '>';
+}
